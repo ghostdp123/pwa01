@@ -1,0 +1,16 @@
+{
+  "name": "pwa01 manifest",
+  "short_name": "pwa01",
+  "start_url": "/pwa01/index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/pwa01/images/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "description": "A Progressive Web App example manifest for pwa01"
+}
